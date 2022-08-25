@@ -1,0 +1,105 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.start{
+    background-color: #212529;
+    color: #ffffff;
+    text-align: center;
+    padding: 15px 0;
+}
+
+.welcome{
+    background-color: #1c77fd ;
+    color: #ffffff;
+    text-align: center;
+    padding: 100px 0;
+}
+.welcome p{
+    font-size: 20px;
+}
+.welcome button{
+    background-color: #ffffff;
+    font-size: 20px;
+    border: none;
+    padding: 15px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+.welcome button:hover{
+    background-color: rgb(8, 7, 7);  
+    color: #ffffff;
+    box-shadow: 13px 6px 20px 0px
+}
+
+.about{
+    
+    background-image: url(https://mrkindy.com/images/bg-1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 12rem 0;
+    color: #ffffff;
+}
+
+.about .first{
+    font-weight: bold;
+    font-size: 2rem;
+    margin-left: 400px;
+    margin-top: 20px;
+   
+}
+.about .second{
+    margin-left: 400px;
+    margin-top: 20px;
+    margin-right: 250px;
+    font-size: 23px;
+    margin-top: 20px;
+
+}
+.list{
+    font-size: 19px;
+    margin-left: 500px;
+    margin-top: 20px;  
+}
+.services{
+    background-color: #f8f9fa;
+    padding: 12rem 0;
+}
+
+.services p{
+    margin-left: 400px;
+    font-size: 25px;
+   
+}
+.head{
+    font-weight: bolder;
+}
+.paragraph{
+    margin-right: 390px;
+}
+
+.contact{
+    background-image: url(https://makcreates.com/wp-content/uploads/2018/03/black-background-mak-creates-web-design-services-1500-2500.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 12rem 0;
+    color: #ffffff;
+}
+.contact p{
+    margin-left: 400px;
+    font-size: 25px;
+}
+
+.Copyright{
+    background-color: #212529;
+    padding: 2rem;
+    text-align: center;
+    color: #ffffff;
+}
+
+
